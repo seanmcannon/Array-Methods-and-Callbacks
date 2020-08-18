@@ -1,4 +1,4 @@
-# FIFA Cha llenge - JavaScript-Foundations
+# FIFA Challenge - JavaScript-Foundations
 
 ## Advanced JavaScript
 
